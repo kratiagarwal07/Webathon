@@ -1,3 +1,12 @@
+/*
+
+Author - Vinit Shahdeo
+Copyright - CodeChef VIT University Vellore
+
+WEBATHON - CODECHEF VIT
+
+*/
+
 /* Clearfix */
 
 .clearfix:after {
@@ -69,6 +78,9 @@ body, html {
 .content .button {
   text-align: center;
   top: 4em;
+}
+a{
+    text-decoration: none;
 }
 .fa-heart{
     color:firebrick;
